@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649907040336",
+    "project_id": "marketplace-fa6f3",
+    "storage_bucket": "marketplace-fa6f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649907040336:android:fdc2b308bb434205916155",
+        "android_client_info": {
+          "package_name": "com.mikekael.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649907040336-g0vh3rhhv8t20dtv0ua8dkqktvmd116n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbVoDsPi7IqXmSF4UzLwm1_2QbwLJv5IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649907040336-g0vh3rhhv8t20dtv0ua8dkqktvmd116n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
